@@ -1,5 +1,5 @@
 {
-   "abstract" : "Blah blah blah",
+   "abstract" : "Add a prepare-commit-msg to your git repository that uses whatthecommit.com to generate random commit messages",
    "author" : [
       "mudler <mudler@dark-lab.net>"
    ],
@@ -46,6 +46,17 @@
       }
    },
    "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/mudler/App-whatthecommit/issues"
+      },
+      "homepage" : "https://github.com/mudler/App-whatthecommit",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/mudler/App-whatthecommit.git",
+         "web" : "https://github.com/mudler/App-whatthecommit"
+      }
+   },
    "version" : "0.01"
 }
 
