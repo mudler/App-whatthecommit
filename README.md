@@ -11,6 +11,7 @@ App::whatthecommit - Add a prepare-commit-msg to your git repository that uses w
 
 App::whatthecommit is just another lazy-to-lazy line command utility.
 whatthecommit.com generates commit messages for the lazy, this tool will increment your lazyness to another level, just give your git repo(s) as args and he will create prepare-commit-msg hook to fetch a random commit.
+After running it on your repo, just try `git commit`.
 
 # AUTHOR
 
